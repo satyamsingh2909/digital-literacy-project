@@ -3,7 +3,7 @@
 **Course:** CSE0001 – Digital Literacy 
 
 ## Student Details 
-- Name: SATYAM SINGH
+- Name: SATYAM KUMAR SINGH
 - Registration number: 25BAI11327
 - CSE [AI&ML]: 1st year
 
